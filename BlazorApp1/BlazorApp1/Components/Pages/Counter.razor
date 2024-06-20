@@ -15,6 +15,12 @@
 @code {
     private int currentCount = 0;
 
+    protected override void OnInitialized()
+    {
+        currentCount = InitialCount;
+    }
+    
+
     [Parameter]
     public int InitialCount { get; set; }
     private void IncrementCount()
