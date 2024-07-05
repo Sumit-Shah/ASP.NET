@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {}
+    "D:\\ASP.NET\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {
+    "D:\\ASP.NET\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+        "projectUniqueName": "D:\\ASP.NET\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
         "projectName": "BulkyWeb",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+        "projectPath": "D:\\ASP.NET\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\BulkyWeb\\BulkyWeb\\obj\\",
+        "outputPath": "D:\\ASP.NET\\BulkyWeb\\BulkyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
